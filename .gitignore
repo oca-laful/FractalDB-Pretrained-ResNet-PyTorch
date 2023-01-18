@@ -1,0 +1,6 @@
+/data
+/.clang-format
+/.vscode
+*.out
+*.exe
+*.pyc
